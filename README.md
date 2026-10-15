@@ -31,6 +31,7 @@ The dashboard consists of six pages:
 
 ## 🎯 Project Objective
 To transform hospital-related data into meaningful insights through interactive visualizations, helping users explore patient information, doctor performance, hospital operations, and financial metrics.
+🔗 [LinkedIn](YOUR-LINKEDIN-PROFILE)
 
 ---
 
